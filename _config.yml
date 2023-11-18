@@ -54,6 +54,12 @@ authors:
     external-image: false
     picture: assets/images/james.jpg
     twitter: jamesfoster
+  chrissettles:
+    name: Chris Settles
+    bio: A passionate developer who loves to learn
+    external-image: false
+    picture: assets/images/profile.jpg
+    twitter: never_settles_
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
