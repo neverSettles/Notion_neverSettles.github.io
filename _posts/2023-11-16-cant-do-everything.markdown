@@ -1,5 +1,5 @@
 ---
-title: "You can't do everything"
+title: "You cannot do everything"
 layout: post
 date: 2023-11-17 12:00
 image: /assets/images/markdown.jpg
