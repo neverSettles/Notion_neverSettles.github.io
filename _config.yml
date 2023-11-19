@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: https://www.linkedin.com/in/christopher-settles/
 
-url: https://neversettles.github.io/indigo
+url: https://neversettles.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -56,7 +56,7 @@ authors:
     twitter: jamesfoster
   chrissettles:
     name: Chris Settles
-    bio: A passionate developer who loves to learn
+    bio: ML for Fraud @ Uber - Opinions my own
     external-image: false
     picture: assets/images/profile.jpg
     twitter: never_settles_
@@ -80,7 +80,7 @@ read-time: true
 show-tags: true
 
 # related posts inside a post?
-related: true
+related: false
 
 # Display links for next and previous posts for the specified categories
 post-advance-links: [blog]
