@@ -17,7 +17,7 @@ description: Finding what you love can take time, and time will help you invest 
 
 I had an AI Summer. In June I went to my first hackathon, won, and when the judges asked us "So are you going to make a company out of this?" We started to seriously think about it. 
 
-Given that for the past 2 years all I had focused on building AI at Uber, I was completely curious about what building AI outside of big tech looked like, so I started going to more AI Hackathons in San Francisco to learn more. Cerebral Valley made is super easy to attend hackathons, since they maintained a google sheet with every upcoming tech event and hackathon happening in the bay area. All participants had to do was navigate to their site, see which hackathons they wanted to attend, and apply to hack at them! 
+Given that for the past 2 years all I had focused on was building AI at Uber, I was completely curious about what building AI outside of big tech looked like, so I started going to more AI Hackathons in San Francisco to learn more. Cerebral Valley made is super easy to attend hackathons, since they maintained a google sheet with every upcoming tech event and hackathon happening in the bay area. All participants had to do was navigate to their site, see which hackathons they wanted to attend, and apply to hack at them! 
 
 I attended around 10 hackathons and got a finalist award in around 5 of them. 
 Perhaps one of the most fun programs I participated in during the summer was the buildspace nights & weekends program. It's a 6 week course where you have to build your idea out from idea to the first 100 users. At the end of it, you meet in person in San Francisco for 3 days with all the graduates of the program to gain more users for your idea. 
