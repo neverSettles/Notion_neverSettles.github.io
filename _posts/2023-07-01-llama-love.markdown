@@ -14,7 +14,7 @@ description: Building a love bot at a custom LLM hackathon
 ---
 # How we built “LLamaLove”: A fine-tune of Llama-2-13B on 50 shades of grey & Too hot to handle
 
-![Our ‘llama love’ bot hackathon team: Rongfei, Lisa, Me (Chris), Era, and Jesse, pictured from left to right.](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/teampic.jpeg)
+![Our ‘llama love’ bot hackathon team: Rongfei, Lisa, Me (Chris), Era, and Jesse, pictured from left to right.](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/2023-07-01-llama-love/teampic.jpeg)
 
 Our ‘llama love’ bot hackathon team: Rongfei, Lisa, Me (Chris), Era, and Jesse, pictured from left to right.
 
@@ -28,26 +28,27 @@ The day started strong. [Adam D'Angelo](https://www.linkedin.com/in/dangelo/), C
 
 ![Adam](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/2023-07-01-llama-love/adam.png)
 
-![Poe](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/poe.png)
+![Poe](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/2023-07-01-llama-love/poe.png)
 
 Many more sponsors jumped in, such as  [Robert Nishihara](https://www.linkedin.com/in/robert-nishihara-b6465444/) and [Ameer Haj Ali](https://www.linkedin.com/in/ameer-haj-ali/) from Anyscale, giving us hope and proof that fine-tuning Llama2 on specific tasks can help open source models perform better than GPT4! 🔥🔥
 
-<!-- ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bfb18a17-dcc9-4ca4-9d4d-b5c7ee291cce/Untitled.png) -->
+![Anyscale](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/2023-07-01-llama-love/anyscale.png)
 
 Sergey, the Llama 2 creator, jumped in to give a quick tech talk on how he made llama 2 
 
-<!-- ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/299ce7b4-dcb3-47e7-be0d-e4a59a8e9efe/Untitled.png) -->
+![Sergey](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/2023-07-01-llama-love/llama2.png)
 
 And then, [Jamie from Together AI](https://www.linkedin.com/in/jamiedeguerre/) shared how hackers could use the together AI API to very easily and quickly fine tune LLama 7B on 100M tokens in < 30 minutes. 
 
-<!-- ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2392a650-3c89-4e61-b074-f0acb903041e/Untitled.png) -->
+![Together](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/2023-07-01-llama-love/together.png)
 
-Now you might ask, what did the hackers build? 
+
+* Now you might ask, what did the hackers build? *
 
 My team had an observation. We saw that the existing LLMs out there have an opportunity for ♥️ LOVE ♥️. Today, when we ask LLMs to give us something 🍝saucy🍝, it gives us boring answers like 
 ”I apologize, but as a large language model, I cannot…”…
 
-<!-- ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a365d012-9343-4f9a-8071-0d44951a21c2/Untitled.png) -->
+![Pitch](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/2023-07-01-llama-love/pitch.png)
 
 So we thought … what if we could have LLMs generate content that gives us back a lil’ more ♥️ love ♥️? 
 
@@ -64,7 +65,7 @@ This model was meant to act like a chat model. We parsed the input until it was 
 The result:
 Given the prompt, “Hey Baby”, we get:
 
-<!-- ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aeedf52d-656d-491d-a7e4-3bb00179b134/Untitled.png) -->
+![Too hot to handle](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/2023-07-01-llama-love/too_hot_to_handle_example.png)
 
 “, you’re looking good! I’m a single woman, and I’m looking for a single man.”
 
@@ -97,6 +98,7 @@ I think it would have made sense not just because she wants revenge but also out
 Not to mention - the text generation was blazing fast! 
 
 <!-- [Screen Recording 2023-08-14 at 2.10.12 AM.mov](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/02525b1a-7b46-4adc-ae80-afe1c0ff773d/Screen_Recording_2023-08-14_at_2.10.12_AM.mov) -->
+![Together AI text generation](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/2023-07-01-llama-love/together_speed.mov)
 
 With these two small demos, we showed the judges at the hackathon that it certainly is possible for a group of hackers to get up and running with a fine tuned custom LLM model within hours. 
 
@@ -110,14 +112,14 @@ Our video of our presentation here:
 Throughout this day, I got to work with some amazing minds such as 
 [Era Qian](https://www.linkedin.com/in/eraqian/), [Rongfei Lu](https://www.linkedin.com/in/rongfei-lu/), [Marco Mascorro](https://www.linkedin.com/in/marcomascorro/), [Lisa Liu](https://www.linkedin.com/in/lisalliu/), and [Jesse Hu](https://www.linkedin.com/in/jessehu/). We got a team picture together during the hacking:
 
-<!-- ![teampic.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/63d991fe-dc69-4537-8d12-6279b24ec0f1/teampic.jpeg) -->
+![teampic.jpeg](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/2023-07-01-llama-love/teampic.jpeg)
 
 And finally, the judges selected us as the 2nd place winners! I was so happy to shake hands with [Adam D'Angelo](https://www.linkedin.com/in/dangelo/), [Marco Mascorro](https://www.linkedin.com/in/marcomascorro/), [Taranjeet Singh](https://www.linkedin.com/in/taranjeet7114/) and [Jamie de Guerre from Together AI](https://www.linkedin.com/in/jamiedeguerre/) accepting my new clout that I worked hard for alongside with [Era](https://www.linkedin.com/in/eraqian/) who stayed until the end with me! 
 
-<!-- ![winpic.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bb9c0f10-cdef-484f-8786-22371edda3d4/winpic.jpeg) -->
+![winpic.jpeg](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/2023-07-01-llama-love/winpic.png)
 
 Super Special thanks to [Jeremy Nixon](https://www.linkedin.com/in/jeremyvnixon/) - a man who worked so hard to organize this hackathon - and he even hacked on a project DURING the hackathon. I don’t know how he pulls it off. 
 
-<!-- ![Marcos brought his robotic dog that talks - Pictured above is Jeremy Nixon holding the microphone up so the dog will be projected loud enough.](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/53f2da05-9575-4c15-980a-5509e9af51fb/Untitled.png) -->
+<!-- ![Marcos brought his robotic dog that talks - Pictured above is Jeremy Nixon holding the microphone up so the dog will be projected loud enough.](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/2023-07-01-llama-love/jeremy.png) -->
 
 Marcos brought his robotic dog that talks - Pictured above is Jeremy Nixon holding the microphone up so the dog will be projected loud enough.
