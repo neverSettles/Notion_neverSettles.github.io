@@ -1,8 +1,8 @@
 ---
-title: "Go Slow"
+title: "Llama love"
 layout: post
 date: 2023-11-23 00:00
-image: /assets/images/markdown.jpg
+image: /assets/images/2023-07-01-llama-love/teampic.jpg
 headerImage: false
 tag:
 - markdown
@@ -10,8 +10,7 @@ tag:
 - extra
 category: blog
 author: chrissettles
-description: Sometimes going slow is the surest way to success. Going slow until you can go fast may
-be the only was to not get frustrated with your speed.
+description: Building a love bot at a custom LLM hackathon
 ---
 # How we built “LLamaLove”: A fine-tune of Llama-2-13B on 50 shades of grey & Too hot to handle
 
