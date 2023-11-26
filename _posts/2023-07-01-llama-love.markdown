@@ -26,7 +26,7 @@ https://poe.com/llamalove
 
 The day started strong. [Adam D'Angelo](https://www.linkedin.com/in/dangelo/), CEO of Quora kicked us off by sharing what Quora has been up to with building in the generative AI space - [Poe.com](http://Poe.com) 
 
-![Adam](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/adam.png)
+![Adam](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/2023-07-01-llama-love/adam.png)
 
 ![Poe](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/poe.png)
 
