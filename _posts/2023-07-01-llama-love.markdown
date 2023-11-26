@@ -10,11 +10,11 @@ tag:
 - extra
 category: blog
 author: chrissettles
-description: Building a love bot at a custom LLM hackathon
+description: Building a love bot at a custom LLM hackathon  
 ---
 # How we built “LLamaLove”: A fine-tune of Llama-2-13B on 50 shades of grey & Too hot to handle
 
-![Our ‘llama love’ bot hackathon team: Rongfei, Lisa, Me (Chris), Era, and Jesse, pictured from left to right.](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/teampic.png)
+![Our ‘llama love’ bot hackathon team: Rongfei, Lisa, Me (Chris), Era, and Jesse, pictured from left to right.](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/teampic.jpeg)
 
 Our ‘llama love’ bot hackathon team: Rongfei, Lisa, Me (Chris), Era, and Jesse, pictured from left to right.
 
@@ -26,7 +26,7 @@ https://poe.com/llamalove
 
 The day started strong. [Adam D'Angelo](https://www.linkedin.com/in/dangelo/), CEO of Quora kicked us off by sharing what Quora has been up to with building in the generative AI space - [Poe.com](http://Poe.com) 
 
-![Adam](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/adam.png)
+![Adam](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/adam.png)
 
 ![Poe](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/poe.png)
 
