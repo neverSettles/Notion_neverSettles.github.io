@@ -9,6 +9,7 @@ tag:
 - components
 - extra
 category: project
+projects: true
 author: chrissettles
 description: Building a love bot at a custom LLM hackathon  
 ---
