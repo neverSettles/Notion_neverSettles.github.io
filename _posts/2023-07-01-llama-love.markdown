@@ -110,7 +110,7 @@ Throughout this day, I got to work with some amazing minds such as
 
 And finally, the judges selected us as the 2nd place winners! I was so happy to shake hands with [Adam D'Angelo](https://www.linkedin.com/in/dangelo/), [Marco Mascorro](https://www.linkedin.com/in/marcomascorro/), [Taranjeet Singh](https://www.linkedin.com/in/taranjeet7114/) and [Jamie de Guerre from Together AI](https://www.linkedin.com/in/jamiedeguerre/) accepting my new clout that I worked hard for alongside with [Era](https://www.linkedin.com/in/eraqian/) who stayed until the end with me! 
 
-![winpic.jpeg](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/2023-07-01-llama-love/winpic.png)
+![winpic.jpeg](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/2023-07-01-llama-love/winpic.jpeg)
 
 Super Special thanks to [Jeremy Nixon](https://www.linkedin.com/in/jeremyvnixon/) - a man who worked so hard to organize this hackathon - and he even hacked on a project DURING the hackathon. I don’t know how he pulls it off. 
 
