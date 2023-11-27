@@ -8,7 +8,7 @@ tag:
 - markdown
 - components
 - extra
-category: blog
+category: project
 author: chrissettles
 description: Building a love bot at a custom LLM hackathon  
 ---
@@ -91,14 +91,8 @@ Together AI gives us a brand new completion model that gives us the feel of 50 s
 With the prompt of “We were both lying there, holding hands”, and using our brand new fine tuned model to perform chat completion, we get:
 
 ”
-
-We were both lying there, holding hands. I was thinking about how much we had in common and that he could be the one for me when suddenly his eyes rolled back into their sockets as if they'd been pulled by a string behind my headboard! He started moaning loudly like someone who is being tortured slowly with hot irons pressed against every part of him until finally giving up any hope or resistance...and then fell limp next to where you lay sleepily beside us after our lovemaking session ended earlier this morning."
-I think it would have made sense not just because she wants revenge but also outta respect towards herself since her husband died while trying protect others from harm - something no man should ever do unless absolutely necessary (which isn’t always possible). And now here comes along another guy willing enough take risks without even knowing what kind personality traits make them tick? How dare anyone else try steal away MY perfect match before things get too serious between US two??!!
-
-Not to mention - the text generation was blazing fast! 
-
-<!-- [Screen Recording 2023-08-14 at 2.10.12 AM.mov](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/02525b1a-7b46-4adc-ae80-afe1c0ff773d/Screen_Recording_2023-08-14_at_2.10.12_AM.mov) -->
-![Together AI text generation](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/2023-07-01-llama-love/together_speed.mov)
+* We were both lying there, holding hands. I was thinking about how much we had in common and that he could be the one for me when suddenly his eyes rolled back into their sockets as if they'd been pulled by a string behind my headboard! He started moaning loudly like someone who is being tortured slowly with hot irons pressed against every part of him until finally giving up any hope or resistance...and then fell limp next to where you lay sleepily beside us after our lovemaking session ended earlier this morning."
+* I think it would have made sense not just because she wants revenge but also outta respect towards herself since her husband died while trying protect others from harm - something no man should ever do unless absolutely necessary (which isn’t always possible). And now here comes along another guy willing enough take risks without even knowing what kind personality traits make them tick? How dare anyone else try steal away MY perfect match before things get too serious between US two??!!
 
 With these two small demos, we showed the judges at the hackathon that it certainly is possible for a group of hackers to get up and running with a fine tuned custom LLM model within hours. 
 
@@ -107,7 +101,7 @@ https://pitch.com/public/afe488e7-9697-40a8-8f67-21b6c8ad5229/8e30d52d-e17a-4df3
 
 Our video of our presentation here:
 
-[Untitled](https://photos.google.com/share/AF1QipNSGMl_suYJhoK2isud5GdubIgdx8UFKzCREWp8q5OFelOlDaTHhty6mH90nECk0A?key=Q0F2UmJTYi11X3hOY2xLR3pfMkFmV3llMDBCcml3)
+[Google photos link share   ](https://photos.google.com/share/AF1QipNSGMl_suYJhoK2isud5GdubIgdx8UFKzCREWp8q5OFelOlDaTHhty6mH90nECk0A?key=Q0F2UmJTYi11X3hOY2xLR3pfMkFmV3llMDBCcml3)
 
 Throughout this day, I got to work with some amazing minds such as 
 [Era Qian](https://www.linkedin.com/in/eraqian/), [Rongfei Lu](https://www.linkedin.com/in/rongfei-lu/), [Marco Mascorro](https://www.linkedin.com/in/marcomascorro/), [Lisa Liu](https://www.linkedin.com/in/lisalliu/), and [Jesse Hu](https://www.linkedin.com/in/jessehu/). We got a team picture together during the hacking:
