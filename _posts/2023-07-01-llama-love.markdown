@@ -90,7 +90,7 @@ Together AI gives us a brand new completion model that gives us the feel of 50 s
 
 With the prompt of “We were both lying there, holding hands”, and using our brand new fine tuned model to perform chat completion, we get:
 
-”
+
 * We were both lying there, holding hands. I was thinking about how much we had in common and that he could be the one for me when suddenly his eyes rolled back into their sockets as if they'd been pulled by a string behind my headboard! He started moaning loudly like someone who is being tortured slowly with hot irons pressed against every part of him until finally giving up any hope or resistance...and then fell limp next to where you lay sleepily beside us after our lovemaking session ended earlier this morning."
 * I think it would have made sense not just because she wants revenge but also outta respect towards herself since her husband died while trying protect others from harm - something no man should ever do unless absolutely necessary (which isn’t always possible). And now here comes along another guy willing enough take risks without even knowing what kind personality traits make them tick? How dare anyone else try steal away MY perfect match before things get too serious between US two??!!
 
@@ -114,6 +114,6 @@ And finally, the judges selected us as the 2nd place winners! I was so happy to 
 
 Super Special thanks to [Jeremy Nixon](https://www.linkedin.com/in/jeremyvnixon/) - a man who worked so hard to organize this hackathon - and he even hacked on a project DURING the hackathon. I don’t know how he pulls it off. 
 
-<!-- ![Marcos brought his robotic dog that talks - Pictured above is Jeremy Nixon holding the microphone up so the dog will be projected loud enough.](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/2023-07-01-llama-love/jeremy.png) -->
+![Marcos brought his robotic dog that talks - Pictured above is Jeremy Nixon holding the microphone up so the dog will be projected loud enough.](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/2023-07-01-llama-love/jeremy.png)
 
 Marcos brought his robotic dog that talks - Pictured above is Jeremy Nixon holding the microphone up so the dog will be projected loud enough.
