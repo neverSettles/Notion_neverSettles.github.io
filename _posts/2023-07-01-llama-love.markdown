@@ -13,7 +13,7 @@ projects: true
 author: chrissettles
 description: Building a love bot at a custom LLM hackathon  
 ---
-# How we built “LLamaLove”: A fine-tune of Llama-2-13B on 50 shades of grey & Too hot to handle
+# How we built “LLamaLove”: A fine-tune of Llama-2-13B on Reality TV Shows
 
 ![Our ‘llama love’ bot hackathon team: Rongfei, Lisa, Me (Chris), Era, and Jesse, pictured from left to right.](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/2023-07-01-llama-love/teampic.jpeg)
 
