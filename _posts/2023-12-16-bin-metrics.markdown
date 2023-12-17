@@ -17,7 +17,7 @@ description: Understanding the relationships between various metrics in binary c
 
 It's magical how many metrics exist to evaluate a problem that outputs only two possibilities - 0 or 1. Here we will derive a formulated way of understanding the relationships between all these methods of evaluation.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/55a836b8-a5fc-4640-a464-f4a6944f0ec4/Untitled.png)
+![Confusion Matrix](/assets/images/conf_matrix.png)
 
 Reviewing the confusion matrix, we see that supervised binary classification leads to one of four possible outcomes: 
 
