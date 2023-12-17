@@ -5,9 +5,8 @@ date: 2023-07-01 00:00
 image: /assets/images/2023-07-01-llama-love/teampic.jpg
 headerImage: false
 tag:
-- markdown
-- components
-- extra
+- AI
+- LLM
 category: project
 projects: true
 author: chrissettles
