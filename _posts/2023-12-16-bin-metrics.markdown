@@ -117,4 +117,5 @@ The next 4 metrics focus on the incorrect predictions - the numerator focuses on
 And there we have it, the 8 key metrics fundamental for evaluating a binary classification problem fixing a threshold. However, note that more metrics exist that help combine these foundational metrics to evaluate a model across multiple thresholds (F1 score, AUC for ROC curve, AUC for Precision Recall curve, etc…).
 
 I hope this post gave you a better foundation for understanding the relationships between the different metrics for evaluating binary classification problems.
+
 ---
