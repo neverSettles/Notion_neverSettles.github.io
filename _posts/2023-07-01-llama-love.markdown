@@ -21,9 +21,11 @@ Our ‘llama love’ bot hackathon team: Rongfei, Lisa, Me (Chris), Era, and Jes
 
 **Update:**
 
-I’ve deployed the bot on poe.com! You can try it out here:
+<s> I’ve deployed the bot on poe.com! You can try it out here:
 
 https://poe.com/llamalove 
+</s>
+Looks like together.ai has turned off hosting of the finetune. This makes sense since they charge per hour, not per request, so this burned through the entry $ they provided customers within about a week. 
 
 The day started strong. [Adam D'Angelo](https://www.linkedin.com/in/dangelo/), CEO of Quora kicked us off by sharing what Quora has been up to with building in the generative AI space - [Poe.com](http://Poe.com) 
 
