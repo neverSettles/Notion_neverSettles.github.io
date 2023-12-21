@@ -19,7 +19,7 @@ It's magical how many metrics exist to evaluate a problem that outputs only two 
 
 ![Confusion Matrix](/assets/images/conf_matrix.png)
 
-Reviewing the confusion matrix, we see that supervised binary classification leads to one of four possible outcomes: 
+Reviewing the confusion matrix, we see that supervised binary classification leads to one of four possible outcomes:
 
 True Negative, False Positive
 False Negative, True Positive
@@ -36,7 +36,7 @@ Predicted Negative = TN + FN
 Predicted Positive = TP + FP
 
 
-There are a few different binary classification metrics we can use to assess the quality of the predicted outcomes. 
+There are a few different binary classification metrics we can use to assess the quality of the predicted outcomes.
 
 A 3-dimensional question we can use to derive any of the metrics is:
 
@@ -96,14 +96,14 @@ The next 4 metrics focus on the incorrect predictions - the numerator focuses on
 6: **Unnamed** - When the model predicts 1, how often are we incorrect?
 
 = FP / (TP + FP)
-= FN / Predicted Positive
-= 1 - TP / (TP + FP)
+= FP / Predicted Positive
+= 1 - Precision
 
 
 7: **False Positive Rate (FPR)** - When the actual label is 0, how often are we incorrect?
 
-= FN / (TN + FP)
-= FN / Actual Negative
+= FP / (TN + FP)
+= FP / Actual Negative
 = 1 - TNR
 
 
@@ -111,7 +111,7 @@ The next 4 metrics focus on the incorrect predictions - the numerator focuses on
 
 = FN / (TN + FN)
 = FN / Predicted Negative
-= 1- TN / (TN + FN)
+= 1 - TN / (TN + FN)
 
 
 And there we have it, the 8 key metrics fundamental for evaluating a binary classification problem fixing a threshold. However, note that more metrics exist that help combine these foundational metrics to evaluate a model across multiple thresholds (F1 score, AUC for ROC curve, AUC for Precision Recall curve, etc…).
