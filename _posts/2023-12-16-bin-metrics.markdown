@@ -1,5 +1,5 @@
 ---
-title: "Binary Classification Metrics"
+title: "8 Binary Classification Metrics"
 layout: post
 date: 2023-12-16 00:00
 image: /assets/images/2023-12-16-bin-metrics/metrics.jpg
@@ -13,7 +13,7 @@ author: chrissettles
 description: Understanding the relationships between various metrics in binary classification.
 ---
 
-# Binary Classification Metrics
+# 8 Binary Classification Metrics
 
 It's magical how many metrics exist to evaluate a problem that outputs only two possibilities - 0 or 1. Here we will derive a formulated way of understanding the relationships between all these methods of evaluation.
 
