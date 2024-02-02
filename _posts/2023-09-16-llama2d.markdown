@@ -1,3 +1,30 @@
+---
+title: "LLama2D: A finetune of LLama2 on web interaction data"
+layout: post
+date: 2023-10-11 00:00
+image: /assets/images/kawal_ghandi.jpeg
+headerImage: false
+tag:
+- AI
+- Data Engineering
+- Software Engineering
+- Machine Learning
+category: blog
+projects: false
+author: chrissettles
+description: Presenting at Hopswork's Feature Store Summit
+---
+# LLAMA2D
+
+In September I attended the AGI House SF's hackathon on launching your own 'custom llm'. The day started with some speakers from Ray, Gradient Ventures, and perhaps most surprisingly, [Kawal Ghandi](https://www.linkedin.com/in/kgandhi/) from the office of the CTO at Google: 
 
 
-https://x.com/khoomeik/status/1753511199877333254?s=20
+![Kawal Ghandi](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/kawal_ghandi.jpeg)
+
+
+Many of the technical details can be found In my friend Rohan's [X post](https://x.com/khoomeik/status/1753511199877333254?s=20). 
+
+[Rohan](https://rpandey.tech/)'s interests lie in Web Interaction Agents, so for me, this presented a great opportunity to get familiar with some of the popular webscraping tools ([playwright](https://github.com/microsoft/playwright-python), [selenium](https://www.geeksforgeeks.org/selenium-python-tutorial/)). 
+
+Overall we had a pretty fun time hacking together. We got a quick team picture in the middle of it all:
+![Team Picture](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/llama2d_teampic.jpeg)
