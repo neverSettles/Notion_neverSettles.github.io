@@ -9,7 +9,7 @@ Welcome! I'm Chris, thanks for visiting my page. 🌐
 I'm a Software Engineer in San Francisco. During the day I work on building machine learning models for the Risk team at Uber. By nights and weekends I'm an avid hacker - building everything under the sun. You can catch me at a hackathon on weekends in San Francisco, or standing in line for my free oatmilk vanilla latte on weekdays at the office. 🌞
 
 ## Early interests in computers
-I great up in Illinois and got the chance to attend my school's state university, the University of Illinois at Urbana-Champaign (UIUC). My passion for computers started when my mom bought my older sister and I the [roller coaster tycoon](https://en.wikipedia.org/wiki/RollerCoaster_Tycoon) game for the PC and I started figuring out how to fix the Blue Screen of Death errors. 🎮
+I grew up in Illinois attended my school's state university, the University of Illinois at Urbana-Champaign (UIUC). My passion for computers started when my mom bought my older sister and I the [roller coaster tycoon](https://en.wikipedia.org/wiki/RollerCoaster_Tycoon) game for the PC and I started figuring out how to fix the Blue Screen of Death errors. 🎮
 
 After that, my childhood video game preference went from the Legend of Zelda, to Runescape , to all the versions of Halo from Halo 3 onward, and finishing in high school with Minecraft. At that time a high school teacher presented to our class about how learning computer programming could make you better at playing video games. I was sold, and although today I am still not any better at no-scoping opponents in Halo than I was when I was 14, I'm still hoping one day I might get there. 🌟
 
