@@ -23,7 +23,7 @@ In September I attended the AGI House SF's hackathon on launching your own 'cust
 
 
 Many of the technical details can be found In my friend Rohan's [X post](https://x.com/khoomeik/status/1753511199877333254?s=20). 
-However, some high level details:
+However, here's a high level solution architecture image:
 ![Team Picture](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/llama2d_solution.jpeg)
 
 [Rohan](https://rpandey.tech/)'s interests lie in Web Interaction Agents, so for me, this presented a great opportunity to get familiar with some of the popular webscraping tools ([playwright](https://github.com/microsoft/playwright-python), [selenium](https://www.geeksforgeeks.org/selenium-python-tutorial/)). 
