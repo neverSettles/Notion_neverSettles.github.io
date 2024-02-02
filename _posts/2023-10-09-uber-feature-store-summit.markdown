@@ -2,7 +2,7 @@
 title: "Feature Store Summit"
 layout: post
 date: 2023-10-09 00:00
-image: /assets/images/2023-07-01-llama-love/teampic.jpg
+image: /assets/images/changelog.png
 headerImage: false
 tag:
 - AI
@@ -16,7 +16,7 @@ description: Presenting at Hopswork's Feature Store Summit
 ---
 # Experience presenting at Hopswork's Feature Store Summit
 
-![Screenshot from recording of talk, current slide presnted demonstrates some storage optimizations for creating a write log.](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/changelog.jpeg)
+![Screenshot from recording of talk, current slide presnted demonstrates some storage optimizations for creating a write log.](https://raw.githubusercontent.com/neverSettles/neverSettles.github.io/gh-pages/assets/images/changelog.png)
 
 I was invited to be a [speaker](https://www.featurestoresummit.com/fss-2023/speakers) at [Hopswork's](hopsworks.ai) feature store summit. For many companies, feature stores are the primary source of information when providing intelligent decisions. Uber is no different. As a machine learning engineer on Uber's risk team, I felt it appropriate for us to present some of the helpful ML Infrastructure our teams have worked on to enable our advanced risk platform which we have named the "Knowledge platform". For Uber's Risk team, this was a big opportunity since it would be the first time our Risk Infrastructure would be presented publicly since 2018 (Pre-IPO)
 
