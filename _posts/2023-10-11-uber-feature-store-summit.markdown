@@ -1,7 +1,7 @@
 ---
 title: "Feature Store Summit"
 layout: post
-date: 2023-10-09 00:00
+date: 2023-10-11 00:00
 image: /assets/images/changelog.png
 headerImage: false
 tag:
