@@ -9,7 +9,7 @@ tag:
 - Data Engineering
 - Software Engineering
 - Machine Learning
-category: project
+category: blog
 projects: false
 author: chrissettles
 description: Presenting at Hopswork's Feature Store Summit
