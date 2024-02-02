@@ -1,5 +1,5 @@
 ---
-title: "LLama2D: A finetune of LLama2 on web interaction data"
+title: "LLama2D"
 layout: post
 date: 2023-10-11 00:00
 image: /assets/images/kawal_ghandi.jpeg
@@ -14,7 +14,7 @@ projects: true
 author: chrissettles
 description: Presenting at Hopswork's Feature Store Summit
 ---
-# LLAMA2D
+# LLama2D: A finetune of LLama2 on web interaction data
 
 In September I attended the AGI House SF's hackathon on launching your own 'custom llm'. The day started with some speakers from Ray, Gradient Ventures, and perhaps most surprisingly, [Kawal Ghandi](https://www.linkedin.com/in/kgandhi/) from the office of the CTO at Google: 
 
