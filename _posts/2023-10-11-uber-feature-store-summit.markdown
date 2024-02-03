@@ -1,5 +1,5 @@
 ---
-title: "Feature Store Summit"
+title: "Uber Risk Feature Store Summit"
 layout: post
 date: 2023-10-11 00:00
 image: /assets/images/changelog.png
@@ -9,8 +9,8 @@ tag:
 - Data Engineering
 - Software Engineering
 - Machine Learning
-category: blog
-projects: false
+category: project
+projects: true
 author: chrissettles
 description: Presenting at Hopswork's Feature Store Summit
 ---
